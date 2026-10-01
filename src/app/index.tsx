@@ -86,8 +86,8 @@ export default function TicTacToe() {
       </TouchableOpacity>
 
       <View style={styles.footer}>
-        <Text style={styles.footerText}>Name: YOUR NAME</Text>
-        <Text style={styles.footerText}>Roll No: YOUR ROLL NUMBER</Text>
+        <Text style={styles.footerText}>Name: Arsal Temuri</Text>
+        <Text style={styles.footerText}>Roll No: 23i-0016</Text>
       </View>
     </View>
   );
